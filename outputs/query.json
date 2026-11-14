@@ -1,0 +1,34 @@
+{
+  "entities": [
+    "computer vision",
+    "deep learning",
+    "external validation",
+    "generalization",
+    "image classification",
+    "medical imaging",
+    "privacy"
+  ],
+  "sources": [
+    {
+      "id": "d1",
+      "text": "PyTorch supports neural network research and deep learning experiments."
+    },
+    {
+      "id": "d2",
+      "text": "Deep learning supports computer vision and image classification."
+    },
+    {
+      "id": "d3",
+      "text": "Computer vision can process medical imaging datasets."
+    },
+    {
+      "id": "d4",
+      "text": "Medical imaging datasets require privacy and careful external validation."
+    },
+    {
+      "id": "d5",
+      "text": "External validation tests generalization across institutions."
+    }
+  ],
+  "abstained": false
+}
